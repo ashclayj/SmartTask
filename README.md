@@ -36,11 +36,11 @@ Set Up the Frontend
 5. Open brower and go to local host
 
 Key Features
-Create Tasks
-View Task List
-Assign Users
-Update Task Status
-Delete Tasks
+1. Create Tasks
+2. View Task List
+3. Assign Users
+4. Update Task Status
+5. Delete Tasks
 
      
 
