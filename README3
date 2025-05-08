@@ -1,0 +1,7 @@
+# Integration Testing
+
+This test used to call the real /tasks API route.
+
+## To run:
+cd 3_integration_testing
+node taskAPI.integration.test.js
