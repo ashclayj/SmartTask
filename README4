@@ -1,0 +1,12 @@
+//Data Collection: Seeding Users and Tasks
+
+These scripts populate the database with sample data for testing.
+
+//Prerequisites:
+- PostgreSQL running
+- `users` and `tasks` tables already created
+- `db.js` properly configured to connect to your PostgreSQL instance
+
+## How to Run
+1. Open your terminal
+2. Navigate to the `4_data_collection/` folder:
