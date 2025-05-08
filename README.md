@@ -26,7 +26,9 @@ To run this project, the following software need to be installed.
      d. DB_PASSWORD
      e. DB_PORT
   5. Set up the database: psql -U postgres -d smarttask -f queries.sql
-  6. Start backend server
+  6. Start backend server:
+      cd smarttask-backend
+      node server.js
 
 Set Up the Frontend
 1. Open a new terminal and go to frontend folder: cd smarttask-frontend
@@ -39,8 +41,9 @@ Key Features
 1. Create Tasks
 2. View Task List
 3. Assign Users
-4. Update Task Status
-5. Delete Tasks
+4. Assign Due Dates
+5. Update Task Status
+6. Delete Tasks
 
      
 
